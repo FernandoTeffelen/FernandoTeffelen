@@ -73,30 +73,30 @@ My experience combines software development, data analytics, data engineering an
 ## Featured projects
 
 <div align="center">
-  <a href="https://github.com/FernandoTeffelen/BRB_Consultoria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoTeffelen&repo=BRB_Consultoria&theme=github_dark&hide_border=true" /></a>
-  <a href="https://github.com/FernandoTeffelen/A3-Qualidade-de-Software"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoTeffelen&repo=A3-Qualidade-de-Software&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/FernandoTeffelen/BRB_Consultoria"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FernandoTeffelen&repo=BRB_Consultoria&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/FernandoTeffelen/A3-Qualidade-de-Software"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FernandoTeffelen&repo=A3-Qualidade-de-Software&theme=github_dark&hide_border=true" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/FernandoTeffelen/MVP-para-obter-credenciais-OAuth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoTeffelen&repo=MVP-para-obter-credenciais-OAuth&theme=github_dark&hide_border=true" /></a>
-  <a href="https://github.com/FernandoTeffelen/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoTeffelen&repo=Portfolio&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/FernandoTeffelen/MVP-para-obter-credenciais-OAuth"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FernandoTeffelen&repo=MVP-para-obter-credenciais-OAuth&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/FernandoTeffelen/Portfolio"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FernandoTeffelen&repo=Portfolio&theme=github_dark&hide_border=true" /></a>
 </div>
 
 ## GitHub overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FernandoTeffelen&show_icons=true&count_private=true&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117" alt="Fernando's GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTeffelen&layout=compact&hide_border=true&title_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=FernandoTeffelen&show_icons=true&count_private=true&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117" alt="Fernando's GitHub stats" />
+  <img width="41%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FernandoTeffelen&layout=compact&hide_border=true&title_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoTeffelen&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph-fawn.vercel.app/graph?username=FernandoTeffelen&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FernandoTeffelen&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=FernandoTeffelen&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:123b4a,100:0d1117&height=120&section=footer"/>
